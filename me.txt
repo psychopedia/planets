@@ -1,3 +1,4 @@
 I am cool
 I am awesome
-I am happy
+I modify a line
+I add a line
